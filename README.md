@@ -35,16 +35,17 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanbmo&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbmo&layout=compact&theme=radical&hide_border=true&title_color=ff0000)
+
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Bryvn&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff0000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Bryvn&layout=compact&theme=radical&hide_border=true&title_color=ff0000)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 - 📌 [reserva_salas](https://github.com/1Bryvn/reserva_salas) – Backend de reservas de salas de estudio con Spring Boot + MyBatis + MySQL   
-- 📌 [Portafolio_BryanMoscoso](https://github.com/1Bryvn/Portafolio_BryanMoscoso) – Portafolio personal con Angular y estilo retro/dark  
-
+- 📌 [Portafolio_BryanMoscoso](https://github.com/1Bryvn/Portafolio_BryanMoscoso) – Frontend de mi portafolio hecho con Angular, Typescript, Tailwindcss, javascript
+- 📌 [reserva_salas](https://github.com/1Bryvn/Portafolio_BryanMoscoso_Backend) – Backend de mi portafolio hecho con Springboot, java17, ApiRest, Mysql, 
 ---
 
 ## 📫 Contacto
