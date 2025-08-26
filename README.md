@@ -42,8 +42,8 @@
 
 ## 🚀 Proyectos Destacados
 
-- 📌 [Sistema de reservas de salas de estudio](https://github.com/bryanbmo/reserva_salas) – Backend de reservas de salas de estudio con Spring Boot + MyBatis + MySQL   
-- 📌 [Portafolio Dev17](https://github.com/bryanbmo/Portafolio_BryanMoscoso) – Portafolio personal con Angular y estilo retro/dark  
+- 📌 [reserva_salas](https://github.com/1Bryvn/reserva_salas) – Backend de reservas de salas de estudio con Spring Boot + MyBatis + MySQL   
+- 📌 [Portafolio_BryanMoscoso](https://github.com/1Bryvn/Portafolio_BryanMoscoso) – Portafolio personal con Angular y estilo retro/dark  
 
 ---
 
