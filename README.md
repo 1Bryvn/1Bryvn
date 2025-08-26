@@ -42,10 +42,10 @@
 ---
 
 ## 🚀 Proyectos Destacados
-
-- 📌 [reserva_salas](https://github.com/1Bryvn/reserva_salas) – Backend de reservas de salas de estudio con Spring Boot + MyBatis + MySQL   
+- 📌 [Reserva_salas_Frontend](https://github.com/1Bryvn/Reserva-de-salas-Frontend_) – Frontend de reservas de salas de estudio con css, html, Angular, TypeScript, Bootstrap 
+- 📌 [Reserva_salas_Backend](https://github.com/1Bryvn/reserva_salas) – Backend de reservas de salas de estudio con Spring Boot + Java17 + MyBatis + MySQL   
 - 📌 [Portafolio_BryanMoscoso](https://github.com/1Bryvn/Portafolio_BryanMoscoso) – Frontend de mi portafolio hecho con Angular, Typescript, Tailwindcss, javascript
-- 📌 [reserva_salas](https://github.com/1Bryvn/Portafolio_BryanMoscoso_Backend) – Backend de mi portafolio hecho con Springboot, java17, ApiRest, Mysql, 
+- 📌 [Portafolio_BryanMoscoso_Backend](https://github.com/1Bryvn/Portafolio_BryanMoscoso_Backend) – Backend de mi portafolio hecho con Springboot, java17, ApiRest, MyBatis, Mysql
 ---
 
 ## 📫 Contacto
