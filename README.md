@@ -39,19 +39,11 @@ Me destaco por mi **trabajo en equipo, comunicación efectiva** y capacidad para
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ---
 
 ## 🚀 Proyectos Destacados
-
-- 📌 [Reserva_salas_Frontend](https://github.com/1Bryvn/Reserva-de-salas-Frontend_)  
-  **Angular 20, TypeScript, Bootstrap 5, TailwindCSS, HTML5, CSS3**  
-  Frontend para gestión de reservas de salas de estudio.  
-
-- 📌 [Reserva_salas_Backend](https://github.com/1Bryvn/reserva_salas)  
-  **Java 17, Spring Boot 3, Spring Security, MyBatis, JWT, MySQL, MongoDB**  
-  Backend de sistema de reservas con autenticación segura y APIs REST.  
 
 - 📌 [Portafolio_BryanMoscoso](https://github.com/1Bryvn/Portafolio_BryanMoscoso)  
   **Angular, TailwindCSS, JavaScript, TypeScript**  
