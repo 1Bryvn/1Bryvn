@@ -50,8 +50,12 @@ Me destaco por mi **trabajo en equipo, comunicación efectiva** y capacidad para
   Aplicación frontend para mi portafolio personal.  
 
 - 📌 [Portafolio_BryanMoscoso_Backend](https://github.com/1Bryvn/Portafolio_BryanMoscoso_Backend)  
-  **Spring Boot 3, Java 17, API REST, MyBatis, MySQL**  
-  Backend para gestión de datos del portafolio.  
+  **Spring Boot 3, Java 17, Lombok, API REST, MyBatis, MySQL, Mockito, JavaMailSender, Maven, Postman**  
+  Backend para gestión de datos del portafolio.
+
+  - 📌 [Microservicios para Gestión de ventas de motocross BikeZ](https://github.com/1Bryvn/BikeZ-Microservices-)  
+  **Spring Boot 3, Java 17, Lombok, API RESTFUL, JPA, MySQL, Mockito, Junit, Api Gateway, Eureka server, OpenFeign, Microservicios, Kafka & Zookeper, Spring security, OAUTH 2.0, JWT,  Resilance4j, MongoDB, Docker, Docker-compose, Maven, Postman**  
+  Backend con microservicios para la gestión de ventas de motocross para BikeZ.  
 
 ---
 
